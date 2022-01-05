@@ -3,4 +3,4 @@ coba branch:
 -comite kedua
 -coba branc conflict
 
-tambahan konflik 2
+tambahan konflik pertama
